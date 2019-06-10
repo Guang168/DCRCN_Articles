@@ -28,8 +28,10 @@ DsZ8LZuhXw67CDB5LRwdgz74VsK5C5fWjeR
 dpubZG7mha6erJ4CfsWCbL3VvcRV9nncm7AVKyMBMXeophFbL8bVFRyUUviGxxuidwEmRFUo5LNHyjymCfb9RBAjUzTQZxCGDodswVcb9PfJrYr
 
 ### 贡献榜 (按字母排序)
-1. Hugo - 15 DCR
-2. Guang - 15 DCR
+1. Guang - 15 DCR
+2. Hugo - 15 DCR
+3. YinGuoChao - 10 DCR
 
 ### 已获奖励文章
-1. 
+1. [RFP: Decred 去中心化交易设施(DEX)](https://github.com/Guang168/DCR_CommunityArticles/blob/master/RFP_Decred_Decentralized_Exchange_Infrastructure_CN.md) - [@之野](https://explorer.dcrdata.org/tx/938a1d41a147f629e61685daa60fa7b8be1b28a40fb0ed92a38e460395f9af27)
+2. 
