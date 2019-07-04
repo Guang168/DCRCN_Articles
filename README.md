@@ -22,7 +22,7 @@
 https://github.com/Guang168/DCRCN_Articles
 
 ## 捐款地址
-DsZ8LZuhXw67CDB5LRwdgz74VsK5C5fWjeR 
+[DsZ8LZuhXw67CDB5LRwdgz74VsK5C5fWjeR](https://explorer.dcrdata.org/address/DsZ8LZuhXw67CDB5LRwdgz74VsK5C5fWjeR)
 
 ## 观看账户公钥
 dpubZG7mha6erJ4CfsWCbL3VvcRV9nncm7AVKyMBMXeophFbL8bVFRyUUviGxxuidwEmRFUo5LNHyjymCfb9RBAjUzTQZxCGDodswVcb9PfJrYr
@@ -31,6 +31,7 @@ dpubZG7mha6erJ4CfsWCbL3VvcRV9nncm7AVKyMBMXeophFbL8bVFRyUUviGxxuidwEmRFUo5LNHyjym
 1. Guang - 15 DCR
 2. Hugo - 15 DCR
 3. YinGuoChao - 10 DCR
+4. LEON.G - 10 DCR
 
 ### 已获奖励文章
 
