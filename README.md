@@ -30,10 +30,11 @@ dpubZG7mha6erJ4CfsWCbL3VvcRV9nncm7AVKyMBMXeophFbL8bVFRyUUviGxxuidwEmRFUo5LNHyjym
 ### 贡献榜 (按字母排序)
 1. Guang - 15 DCR
 2. Hugo - 15 DCR
-3. YinGuoChao - 10 DCR
-4. LEON.G - 10 DCR
+3. LEON.G - 10 DCR
+4. YinGuoChao - 10 DCR
 
 ### 已获奖励文章
 
 1. [RFP: Decred 去中心化交易设施(DEX)](https://github.com/Guang168/DCR_CommunityArticles/blob/master/RFP_Decred_Decentralized_Exchange_Infrastructure_CN.md) - [@之野](https://explorer.dcrdata.org/tx/938a1d41a147f629e61685daa60fa7b8be1b28a40fb0ed92a38e460395f9af27)
 2. [The Blockchain Governance Quadrant区块链治理象限](https://github.com/Guang168/DCR_CommunityArticles/blob/master/The_Blockchain_Governance_Quadrant_CN.md) - [@jiukou0920](https://explorer.dcrdata.org/tx/fef9c4f4fe45f1b47225523fc607865418d8f869a20f23f52f134fcdad2a4f24)
+3. [Monetary premiums, can altcoins compete with Bitcoin?](https://github.com/Guang168/DCR_CommunityArticles/blob/master/%E8%B4%A7%E5%B8%81%E6%BA%A2%E4%BB%B7%EF%BC%8C%E5%B1%B1%E5%AF%A8%E5%B8%81%E8%83%BD%E5%90%A6%E4%B8%8E%E6%AF%94%E7%89%B9%E5%B8%81%E4%B8%80%E8%BE%83%E9%AB%98%E4%B8%8B%EF%BC%9F.md) - [@jill](https://explorer.dcrdata.org/tx/805b1d236f007203376748d34de78b151ee925a7b4b7abea51acfeb527a60dbb)
